@@ -25,4 +25,4 @@ jobs:
         with:
           arguments: build
       - name: UnitTests
-        run: .gradlew test
+        run: ./gradlew test
